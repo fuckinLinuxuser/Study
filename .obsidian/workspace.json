@@ -186,8 +186,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -212,6 +212,9 @@
   },
   "active": "35d5e00c011c29b7",
   "lastOpenFiles": [
+    "Без названия.md",
+    "README.md",
+    "Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
     "Информационные технологии/Понятие информационной технологии, 03.09.25.md",
     "photo/Drawing 2025-09-05 09.41.31.excalidraw.md",
     "photo/Drawing 2025-09-05 09.57.54.excalidraw.md",
@@ -229,13 +232,11 @@
     "photo/Pasted image 20250908141011.png",
     "photo/Pasted image 20250908114402.png",
     "photo/Pasted image 20250905123841.png",
-    "README.md",
     "Math/Теория/05.09.25.md",
     "Math/Теория",
     "❗️❗️❗️ИНСТРУКЦИЯ ❗️❗️❗️.md",
     "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
     "Архитектура аппаратных средств/04.09.25 Поколения ЭВМ.md",
-    "Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
     "photo/Drawing 2025-09-05 11.40.41.excalidraw.md",
     "Архитектура аппаратных средств/Drawing 2025-09-05 11.45.10.excalidraw.md",
     "Архитектура аппаратных средств/Drawing 2025-09-05 11.40.41.excalidraw.md",
