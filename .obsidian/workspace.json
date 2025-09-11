@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Операционные системы, среды и оболочки, 04.09.25"
+              "title": "README"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "bb8d7b415110f33f",
   "lastOpenFiles": [
-    "README.md",
     "Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
+    "README.md",
     "Программирование/Основы С+.md",
     "Makefile",
     "push_pull.ssh",
