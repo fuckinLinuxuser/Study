@@ -58,3 +58,7 @@
 \- [u] up
 \- [d] down
 
+<<<<<<< HEAD
+=======
+jdjdjfdj 
+>>>>>>> refs/remotes/origin/main
