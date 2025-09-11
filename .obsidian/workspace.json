@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1aeb1c497e0a3c84",
+            "id": "bb8d7b415110f33f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
+                "file": "Программирование/Основы С+.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Поколения ЭВМ, 04.09.25"
-            }
-          },
-          {
-            "id": "47588f7a041ca136",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Поколения ЭВМ, 04.09.25"
-            }
-          },
-          {
-            "id": "35d5e00c011c29b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Информационные технологии/Понятие информационной технологии, 03.09.25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Понятие информационной технологии, 03.09.25"
+              "title": "Основы С+"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d7197d10332d92ba",
@@ -179,6 +150,16 @@
               "icon": "lucide-list",
               "title": "Структура Инструкция"
             }
+          },
+          {
+            "id": "1556c77cfb156bb1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
           }
         ]
       }
@@ -189,27 +170,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "fit:Fit Sync": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "35d5e00c011c29b7",
+  "active": "bb8d7b415110f33f",
   "lastOpenFiles": [
-    "Программирование/Основы С+.md",
     "_fit/Программирование/Основы С+.md",
-    "_fit/Программирование",
-    "_fit/README.md",
-    "_fit",
     "Программирование/Основы С+.md",
+    "_fit/photo/Drawing 2025-09-05 09.35.14.excalidraw.md",
+    "_fit/photo/Drawing 2025-09-05 09.46.28.excalidraw.md",
+    "_fit/photo/Drawing 2025-09-05 09.57.54.excalidraw.md",
+    "_fit/photo/Drawing 2025-09-05 09.41.31.excalidraw.md",
+    "_fit/Math/Теория/05.09.25.md",
+    "_fit/Math/Теория",
+    "_fit/Math",
+    "_fit/photo/Drawing 2025-09-05 11.45.10.excalidraw.md",
+    "_fit/photo/❗️Норматив заполнения❗️.md",
+    "_fit/photo",
+    "_fit/Информационные технологии/Понятие информационной технологии, 03.09.25.md",
+    "_fit/Информационные технологии",
+    "_fit/Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
+    "_fit/Операционки",
+    "_fit/Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
+    "_fit/Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
+    "_fit/Архитектура аппаратных средств",
+    "_fit/Техн. физ. уровня/Физический уровень модели OSI, 03.09.25.md",
+    "_fit/Техн. физ. уровня",
+    "_fit/README.md",
+    "README.md",
+    "Техн. физ. уровня/Физический уровень модели OSI, 03.09.25.md",
+    "Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
+    "Техн. физ. уровня",
+    "Программирование",
     "Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
+    "Операционки",
+    "Информационные технологии/Понятие информационной технологии, 03.09.25.md",
     "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
     "photo/❗️Норматив заполнения❗️.md",
+    "photo/Снимок экрана от 2025-09-04 17-03-29.png",
+    "photo/Снимок экрана от 2025-09-04 17-01-36.png",
     "photo/telegram-cloud-photo-size-2-5327847226803880377-y.jpg",
     "photo/telegram-cloud-photo-size-2-5327847226803880291-y.jpg",
     "photo/Pasted image 20250910194900.png",
@@ -218,39 +225,10 @@
     "photo/Pasted image 20250908141011.png",
     "photo/Pasted image 20250908114402.png",
     "photo/Pasted image 20250905123841.png",
-    "photo/Pasted image 20250905121521.png",
-    "README.md",
-    "Math/Теория/05.09.25.md",
-    "Math/Теория",
-    "❗️❗️❗️ИНСТРУКЦИЯ ❗️❗️❗️.md",
-    "Архитектура аппаратных средств/04.09.25 Поколения ЭВМ.md",
-    "Информационные технологии/Понятие информационной технологии, 03.09.25.md",
-    "photo/Pasted image 20250905092934.png",
     "photo/Drawing 2025-09-05 11.45.10.excalidraw.md",
-    "photo/Drawing 2025-09-05 11.40.41.excalidraw.md",
-    "Архитектура аппаратных средств/Drawing 2025-09-05 11.45.10.excalidraw.md",
-    "Архитектура аппаратных средств/Drawing 2025-09-05 11.40.41.excalidraw.md",
-    "Pasted image 20250905123841.png",
-    "Pasted image 20250905121521.png",
-    "Без названия 1.base",
-    "Без названия.canvas",
-    "Excalidraw/Drawing 2025-09-05 11.39.45.excalidraw.md",
-    "Excalidraw",
-    "Без названия.base",
-    "❗️Норматив заполнения❗️.md",
-    "photo/Pasted image 20250905105622.png",
-    "Архитекткура аппар. средств/Вводная пара.md",
-    "Техн. физ. уровня/Физический уровень модели OSI, 03.09.25.md",
-    "Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
     "photo/Drawing 2025-09-05 09.57.54.excalidraw.md",
     "photo/Drawing 2025-09-05 09.46.28.excalidraw.md",
     "photo/Drawing 2025-09-05 09.41.31.excalidraw.md",
-    "photo/Drawing 2025-09-05 09.35.14.excalidraw.md",
-    "Операционки/Операционные системы, среды и оболочки.md",
-    "пися/леши.md",
-    "пися/чина",
-    "пися",
-    "Без названия",
-    "Операционки"
+    "Без названия.canvas"
   ]
 }
