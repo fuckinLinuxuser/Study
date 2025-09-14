@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Поколения ЭВМ, 04.09.25"
+            }
+          },
+          {
+            "id": "61dc88dbe5799aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Поколения ЭВМ, 04.09.25"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,8 +213,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "35d5e00c011c29b7",
+  "active": "61dc88dbe5799aa0",
   "lastOpenFiles": [
+    "Архитектура аппаратных средств/Drawing 2025-09-14 22.53.43.excalidraw.md",
+    "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
     "Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
     "README.md",
     "Makefile",
@@ -229,7 +245,6 @@
     "_fit/Программирование",
     "_fit/README.md",
     "_fit",
-    "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
     "photo/❗️Норматив заполнения❗️.md",
     "photo/telegram-cloud-photo-size-2-5327847226803880377-y.jpg",
     "photo/telegram-cloud-photo-size-2-5327847226803880291-y.jpg",
