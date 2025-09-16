@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "54d5c11326fec586",
+        "id": "f6e4e9b89176fbf0",
         "type": "tabs",
         "children": [
           {
-            "id": "1aeb1c497e0a3c84",
+            "id": "c48ec22fd08a391a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
+                "file": "Программирование/Основы С+.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Поколения ЭВМ, 04.09.25"
+              "title": "Основы С+"
             }
           },
           {
-            "id": "47588f7a041ca136",
+            "id": "afb0d9809d93db17",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Техн. физ. уровня/16.09.25.md",
+                "file": "Техн. физ. уровня/Физический уровень модели OSI, 03.09.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16.09.25"
+              "title": "Физический уровень модели OSI, 03.09.25"
             }
           }
         ],
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d7197d10332d92ba",
@@ -179,6 +179,16 @@
               "icon": "lucide-list",
               "title": "Структура Инструкция"
             }
+          },
+          {
+            "id": "1556c77cfb156bb1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
           }
         ]
       }
@@ -201,52 +211,50 @@
   },
   "active": "db4b2682b8949fd5",
   "lastOpenFiles": [
-    "Math/Session questions.md",
-    "Math/Questions for math.md",
+    "Техн. физ. уровня/Воло16.09.25.md",
     "Math/Drawing 2025-06-13 17.51.30.excalidraw.md",
-    "Техн. физ. уровня/16.09.25.md",
-    "Техн. физ. уровня/Drawing 2025-09-16 09.37.30.excalidraw.md",
+    "README.md",
     "Техн. физ. уровня/Физический уровень модели OSI, 03.09.25.md",
     "Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
-    "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
+    "photo/Drawing 2025-09-16 09.37.30.excalidraw.md",
     "Без названия.base",
+    "Math/Session questions.md",
+    "Math/Questions for math.md",
+    "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
     "push-pull.ps1",
     "photo/photo_2025-09-11_14-36-54.jpg",
+    "push-pull.ps1",
+    "photo_2025-09-11_14-36-54.jpg",
+    "Pasted image 20250911143644.png",
+    "Pasted image 20250911142640.png",
     "photo/Pasted image 20250911142646.png",
     "Архитектура аппаратных средств/Drawing 2025-09-14 22.53.43.excalidraw.md",
     "Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
-    "README.md",
     "Makefile",
+    "push_pull.ssh",
+    "push/pull.ssh",
+    "push",
     "_fit/Программирование/Основы С+.md",
-    "Программирование/Основы С+.md",
-    "_fit/photo/Drawing 2025-09-05 09.41.31.excalidraw.md",
-    "_fit/photo/Drawing 2025-09-05 11.45.10.excalidraw.md",
+    "_fit/photo/Drawing 2025-09-05 09.35.14.excalidraw.md",
     "_fit/photo/Drawing 2025-09-05 09.46.28.excalidraw.md",
+    "_fit/photo/Drawing 2025-09-05 09.57.54.excalidraw.md",
+    "_fit/photo/Drawing 2025-09-05 09.41.31.excalidraw.md",
     "_fit/Math/Теория/05.09.25.md",
     "_fit/Math/Теория",
     "_fit/Math",
-    "_fit/photo/Drawing 2025-09-05 09.57.54.excalidraw.md",
-    "_fit/photo/Drawing 2025-09-05 09.35.14.excalidraw.md",
-    "_fit/Техн. физ. уровня/Физический уровень модели OSI, 03.09.25.md",
-    "_fit/Информационные технологии/Понятие информационной технологии, 03.09.25.md",
-    "_fit/Информационные технологии",
-    "_fit/Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
-    "_fit/Архитектура аппаратных средств",
-    "_fit/Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
-    "_fit/Операционки",
-    "_fit/Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
-    "_fit/Техн. физ. уровня",
+    "_fit/photo/Drawing 2025-09-05 11.45.10.excalidraw.md",
     "_fit/photo/❗️Норматив заполнения❗️.md",
     "_fit/photo",
+    "_fit/Информационные технологии/Понятие информационной технологии, 03.09.25.md",
+    "_fit/Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
+    "_fit/Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
+    "_fit/photo/❗️Норматив заполнения❗️.md",
     "Информационные технологии/Понятие информационной технологии, 03.09.25.md",
     "photo/telegram-cloud-photo-size-2-5327847226803880377-y.jpg",
     "photo/telegram-cloud-photo-size-2-5327847226803880291-y.jpg",
     "photo/Pasted image 20250908141011.png",
     "photo/Pasted image 20250908114402.png",
     "photo/Pasted image 20250905123841.png",
-    "photo/Pasted image 20250905121521.png",
-    "photo/Pasted image 20250905092934.png",
-    "Pasted image 20250905123841.png",
     "Без названия.canvas"
   ]
 }
