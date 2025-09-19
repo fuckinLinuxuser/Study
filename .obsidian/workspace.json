@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Поколения ЭВМ, 04.09.25"
             }
+          },
+          {
+            "id": "3928f9a75909cf28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Поколения ЭВМ, 04.09.25"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +195,15 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "43fc4f1f9ab0b1c1",
+  "active": "3928f9a75909cf28",
   "lastOpenFiles": [
+    "Pasted image 20250919191418.png",
+    "Pasted image 20250919121815.png",
+    "Pasted image 20250919114051.png",
+    "Pasted image 20250919114002.png",
+    "Pasted image 20250919113927.png",
+    "Архитектура аппаратных средств/Drawing 2025-09-19 11.19.41.excalidraw.md",
+    "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
     "photo/Pasted image 20250918114923.png",
     "photo/Pasted image 20250918114250.png",
     "photo/Pasted image 20250918112059.png",
@@ -189,7 +211,6 @@
     "photo/Pasted image 20250915123319.png",
     "photo/Drawing 2025-09-18 11.28.09.excalidraw.md",
     "Программирование/Основы С+.md",
-    "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
     "Техн. физ. уровня/Физический уровень модели OSI, 03.09.25.md",
     "Техн. физ. уровня/Воло16.09.25.md",
     "Math/Drawing 2025-06-13 17.51.30.excalidraw.md",
@@ -202,10 +223,6 @@
     "push-pull.ps1",
     "photo/photo_2025-09-11_14-36-54.jpg",
     "push-pull.ps1",
-    "photo_2025-09-11_14-36-54.jpg",
-    "Pasted image 20250911143644.png",
-    "Pasted image 20250911142640.png",
-    "photo/Pasted image 20250911142646.png",
     "photo/Drawing 2025-09-14 22.53.43.excalidraw.md",
     "Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
     "Makefile",
@@ -226,8 +243,6 @@
     "_fit/Информационные технологии/Понятие информационной технологии, 03.09.25.md",
     "_fit/Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
     "_fit/Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
-    "_fit/photo/❗️Норматив заполнения❗️.md",
-    "photo/telegram-cloud-photo-size-2-5327847226803880377-y.jpg",
     "Без названия.canvas"
   ]
 }
