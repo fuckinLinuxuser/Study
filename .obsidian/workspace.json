@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Поколения ЭВМ, 04.09.25"
             }
-          },
-          {
-            "id": "3928f9a75909cf28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Операционные системы, среды и оболочки, 04.09.25"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,8 +181,9 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "3928f9a75909cf28",
+  "active": "db4b2682b8949fd5",
   "lastOpenFiles": [
+    "Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
     "Программирование/Основы С+.md",
     "IMG_1110 3.heic",
     "IMG_1110 2.heic",
@@ -229,7 +215,6 @@
     "push-pull.ps1",
     "push-pull.ps1",
     "photo/Drawing 2025-09-14 22.53.43.excalidraw.md",
-    "Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
     "Makefile",
     "push_pull.ssh",
     "push/pull.ssh",
