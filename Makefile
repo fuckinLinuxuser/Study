@@ -1,3 +1,3 @@
 sync:
-	@echo "➡ Запускаю Bash-скрипт"
+git	@echo "➡ Запускаю Bash-скрипт"
 	bash ./push_pull.ssh
