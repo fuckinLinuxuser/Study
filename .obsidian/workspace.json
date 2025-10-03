@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Инструкция.md",
+                "file": "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Инструкция"
+              "title": "Обратные ссылки для Поколения ЭВМ, 04.09.25"
             }
           },
           {
@@ -184,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,13 +200,18 @@
   },
   "active": "35d5e00c011c29b7",
   "lastOpenFiles": [
-    "Без названия.base",
+    "Архитектура аппаратных средств/Drawing 2025-09-14 22.53.43.excalidraw.md",
+    "Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
+    "Pasted image 20251002142927.png",
+    "Pasted image 20251002142729.png",
+    "Pasted image 20251002135957.png",
+    "Pasted image 20251002135938.png",
+    "Pasted image 20251002135926.png",
     "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
+    "Без названия.base",
     "push-pull.ps1",
     "photo/photo_2025-09-11_14-36-54.jpg",
     "photo/Pasted image 20250911142646.png",
-    "Архитектура аппаратных средств/Drawing 2025-09-14 22.53.43.excalidraw.md",
-    "Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
     "README.md",
     "Makefile",
     "_fit/Программирование/Основы С+.md",
@@ -237,15 +241,10 @@
     "photo/telegram-cloud-photo-size-2-5327847226803880377-y.jpg",
     "photo/telegram-cloud-photo-size-2-5327847226803880291-y.jpg",
     "photo/Pasted image 20250908141011.png",
-    "photo/Pasted image 20250908114402.png",
-    "photo/Pasted image 20250905123841.png",
-    "photo/Pasted image 20250905121521.png",
     "Math/Теория/05.09.25.md",
     "❗️❗️❗️ИНСТРУКЦИЯ ❗️❗️❗️.md",
     "Архитектура аппаратных средств/04.09.25 Поколения ЭВМ.md",
-    "photo/Pasted image 20250905092934.png",
     "photo/Drawing 2025-09-05 11.45.10.excalidraw.md",
-    "Pasted image 20250905123841.png",
     "Без названия.canvas"
   ]
 }
