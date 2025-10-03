@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -170,22 +170,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "fit:Fit Sync": false,
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "43fc4f1f9ab0b1c1",
+  "active": "db4b2682b8949fd5",
   "lastOpenFiles": [
+    "README.md",
+    "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
     "photo/photo_2025-09-29_14-53-46.jpg",
     "Pasted image 20250929145334.png",
-    "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
     "photo/photo_2025-09-29_14-42-17.jpg",
     "photo/photo_2025-09-29_14-37-37.jpg",
     "photo/photo_2025-09-29_14-34-05.jpg",
@@ -194,7 +193,6 @@
     "photo/Pasted image 20250929140750.png",
     "Pasted image 20250929142750.png",
     "photo/Pasted image 20250929142653.png",
-    "photo/Pasted image 20250929142605.png",
     "IMG_1144.heic",
     "IMG_1143.heic",
     "IMG_1142.heic",
@@ -212,7 +210,6 @@
     "Техн. физ. уровня/Физический уровень модели OSI, 03.09.25.md",
     "Техн. физ. уровня/Воло16.09.25.md",
     "Math/Drawing 2025-06-13 17.51.30.excalidraw.md",
-    "README.md",
     "Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
     "photo/Drawing 2025-09-16 09.37.30.excalidraw.md",
     "Без названия.base",
