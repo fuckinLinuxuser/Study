@@ -1,110 +1,41 @@
 {
   "main": {
-    "id": "af6c3ae43436b29d",
+    "id": "4abab0958bdbb695",
     "type": "split",
     "children": [
       {
-        "id": "54d5c11326fec586",
+        "id": "0b49098386286128",
         "type": "tabs",
         "children": [
           {
-            "id": "1aeb1c497e0a3c84",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20251002142927.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251002142927"
-            }
-          },
-          {
-            "id": "47588f7a041ca136",
+            "id": "1906599cd9ab6e27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
+                "file": "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Поколения ЭВМ, 04.09.25"
-            }
-          },
-          {
-            "id": "35d5e00c011c29b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Операционные системы, среды и оболочки, 04.09.25"
-            }
-          },
-          {
-            "id": "e573a2f8fa89f29d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Основы С+.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Основы С+"
-            }
-          },
-          {
-            "id": "102d6535892bc94f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Основы С+.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Основы С+"
-            }
-          },
-          {
-            "id": "5804a7e03ec9a73e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Основы С+.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Основы С+"
+              "title": "Сетевое коммуникационное оорудование"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8b3091ada47e3aba",
+    "id": "48a6b0a2f4c96580",
     "type": "split",
     "children": [
       {
-        "id": "a8daf5370d77148f",
+        "id": "1cd793a0dfd3be9e",
         "type": "tabs",
         "children": [
           {
-            "id": "43fc4f1f9ab0b1c1",
+            "id": "1048f136d653a38a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -113,11 +44,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
-            "id": "4a72ce184b87bebf",
+            "id": "d7847b18a775e2f4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -130,17 +61,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
-            "id": "a2e033d3dbbda7bb",
+            "id": "1c4e3910c1edda7c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -150,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "d7197d10332d92ba",
+    "id": "405d615dff4d56e9",
     "type": "split",
     "children": [
       {
-        "id": "8098281622b2be50",
+        "id": "ff5d3d9e85e42dcc",
         "type": "tabs",
         "children": [
           {
-            "id": "e33eb619a69bcc95",
+            "id": "e35ed03775863901",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Основы С+.md",
+                "file": "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Основы С+"
+              "title": "Backlinks for Сетевое коммуникационное оорудование"
             }
           },
           {
-            "id": "03927f660c27d7f9",
+            "id": "52a2978016cfea79",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Инструкция.md",
+                "file": "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Инструкция"
+              "title": "Outgoing links from Сетевое коммуникационное оорудование"
             }
           },
           {
-            "id": "f8be0e38df7b4e73",
+            "id": "fe40a9affb267356",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -202,22 +133,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Теги"
+              "title": "Tags"
             }
           },
           {
-            "id": "ea6a7d812986a02c",
+            "id": "260cc319a3b27407",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Инструкция.md",
+                "file": "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Инструкция"
+              "title": "Outline of Сетевое коммуникационное оорудование"
             }
           }
         ]
@@ -229,93 +160,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "5804a7e03ec9a73e",
+  "active": "1906599cd9ab6e27",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Pasted image 20251002142729.png",
-    "Pasted image 20251002135957.png",
-    "Pasted image 20251002135938.png",
-    "Pasted image 20251002135926.png",
-    "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
-    "Без названия.base",
-    "Pasted image 20251002142927.png",
-=======
-    "push_pull.sh",
->>>>>>> refs/remotes/origin/main
-    "photo/photo_2025-10-03_10-23-50.jpg",
-    "photo/photo_2025-10-03_10-04-22.jpg",
-    "photo/photo_2025-10-03_09-57-21.jpg",
-    "photo/photo_2025-10-03_09-56-23.jpg",
-    "photo/photo_2025-10-03_09-55-27.jpg",
-<<<<<<< HEAD
-    "Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
-    "README.md",
-=======
-    "photo/photo_2025-10-03_09-52-55.jpg",
-    "photo/photo_2025-10-03_09-51-40.jpg",
-    "photo/photo_2025-10-03_09-47-45.jpg",
-    "photo/photo_2025-10-03_09-37-06.jpg",
-    "photo/photo_2025-10-03_09-36-55.jpg",
-    "Программирование/Drawing 2025-10-06 12.02.08.excalidraw.md",
-    "Программирование/Основы С+.md",
-    "Программирование/Drawing 2025-10-06 11.40.37.excalidraw.md",
-    "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
+    "photo/photo_2025-10-07_09-48-52.jpg",
     "Техн. физ. уровня/Топология сетей.md",
-    "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
-    "Английский язык ч/23.09.25.md",
-    "Английский язык ч",
-    "photo/Drawing 2025-09-18 11.28.09.excalidraw.md",
-    "photo/Drawing 2025-09-16 09.37.30.excalidraw.md",
-    "photo/Drawing 2025-09-14 22.53.43.excalidraw.md",
->>>>>>> refs/remotes/origin/main
-    "IMG_1144.heic",
-    "IMG_1143.heic",
-    "IMG_1142.heic",
-    "IMG_1110.heic",
-    "IMG_1110 3.heic",
-    "IMG_1110 2.heic",
-    "IMG_1110 1.heic",
-<<<<<<< HEAD
-    "IMG_1110.heic",
-    "Информационные технологии/Понятие информационной технологии, 03.09.25.md",
-    "Архитектура аппаратных средств/Drawing 2025-09-19 11.19.41.excalidraw.md",
-    "photo/Drawing 2025-09-18 11.28.09.excalidraw.md",
     "Техн. физ. уровня/Физический уровень модели OSI, 03.09.25.md",
-    "Техн. физ. уровня/Воло16.09.25.md",
-    "Math/Drawing 2025-06-13 17.51.30.excalidraw.md",
     "Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
-    "photo/Drawing 2025-09-16 09.37.30.excalidraw.md",
-    "Math/Session questions.md",
-    "Math/Questions for math.md",
-=======
-    "Архитектура аппаратных средств/Drawing 2025-09-14 22.53.43.excalidraw.md",
-    "Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
     "Без названия.base",
->>>>>>> refs/remotes/origin/main
-    "push-pull.ps1",
-    "README.md",
-    "_fit/Программирование/Основы С+.md",
-    "_fit/photo/Drawing 2025-09-05 09.41.31.excalidraw.md",
-    "_fit/photo/Drawing 2025-09-05 11.45.10.excalidraw.md",
-    "_fit/photo/Drawing 2025-09-05 09.46.28.excalidraw.md",
-    "_fit/Math/Теория/05.09.25.md",
-    "_fit/photo/Drawing 2025-09-05 09.57.54.excalidraw.md",
-    "_fit/photo/Drawing 2025-09-05 09.35.14.excalidraw.md",
-    "_fit/Техн. физ. уровня/Физический уровень модели OSI, 03.09.25.md",
-    "_fit/Информационные технологии/Понятие информационной технологии, 03.09.25.md",
-    "_fit/Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
-    "_fit/Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
-    "_fit/Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
-    "Без названия.canvas"
+    "photo/Pasted image 20251002142729.png",
+    "photo/Pasted image 20251002135957.png",
+    "photo/Pasted image 20251002135938.png",
+    "photo/Pasted image 20251002135926.png"
   ]
 }
