@@ -11,14 +11,12 @@
             "id": "db4b2682b8949fd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20251002142927.png"
               },
-              "icon": "lucide-file",
-              "title": "Поколения ЭВМ, 04.09.25"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251002142927"
             }
           }
         ]
@@ -181,19 +179,19 @@
   },
   "active": "db4b2682b8949fd5",
   "lastOpenFiles": [
+    "Pasted image 20251002142729.png",
+    "Pasted image 20251002135957.png",
+    "Pasted image 20251002135938.png",
+    "Pasted image 20251002135926.png",
+    "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
+    "Без названия.base",
+    "Pasted image 20251002142927.png",
     "photo/photo_2025-10-03_10-23-50.jpg",
     "photo/photo_2025-10-03_10-04-22.jpg",
     "photo/photo_2025-10-03_09-57-21.jpg",
     "photo/photo_2025-10-03_09-56-23.jpg",
     "photo/photo_2025-10-03_09-55-27.jpg",
-    "photo/photo_2025-10-03_09-52-55.jpg",
-    "photo/photo_2025-10-03_09-51-40.jpg",
-    "photo/photo_2025-10-03_09-47-45.jpg",
     "Операционки/Операционные системы, среды и оболочки, 04.09.25.md",
-    "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
-    "Pasted image 20251003093512.png",
-    "photo/photo_2025-10-03_09-37-06.jpg",
-    "photo/photo_2025-10-03_09-36-55.jpg",
     "README.md",
     "IMG_1144.heic",
     "IMG_1143.heic",
@@ -213,7 +211,6 @@
     "Math/Drawing 2025-06-13 17.51.30.excalidraw.md",
     "Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
     "photo/Drawing 2025-09-16 09.37.30.excalidraw.md",
-    "Без названия.base",
     "Math/Session questions.md",
     "Math/Questions for math.md",
     "push-pull.ps1",
