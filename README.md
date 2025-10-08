@@ -60,7 +60,3 @@
 <<<<<<< HEAD
 \- [d] down
 
-rftgyhj
-=======
-\- [d] down
->>>>>>> 00f47591e7c442a436e74df8f948c6b3a432fc27
