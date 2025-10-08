@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0b49098386286128",
+        "id": "2edd7cfb9fb4fe0d",
         "type": "tabs",
         "children": [
           {
-            "id": "1906599cd9ab6e27",
+            "id": "5ee5c78218bdebd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
+                "file": "Операционки/Операционные системы, среды и оболочки,.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сетевое коммуникационное оорудование"
+              "title": "Операционные системы, среды и оболочки,"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Сетевое коммуникационное оорудование"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +113,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Сетевое коммуникационное оорудование"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Сетевое коммуникационное оорудование"
+              "title": "Outline"
             }
           }
         ]
@@ -169,19 +167,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "1906599cd9ab6e27",
+  "active": "5ee5c78218bdebd5",
   "lastOpenFiles": [
+    "Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
+    "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
+    "Техн. физ. уровня/Топология сетей.md",
+    "photo/photo_2025-10-07_10-38-15.jpg",
+    "photo/photo_2025-10-07_10-34-45.jpg",
+    "photo/photo_2025-10-07_10-33-44.jpg",
     "photo/photo_2025-10-07_10-22-12.jpg",
     "photo/photo_2025-10-07_10-01-20.jpg",
     "photo/photo_2025-10-07_09-59-39.jpg",
     "photo/photo_2025-10-07_09-48-52.jpg",
-    "Техн. физ. уровня/Топология сетей.md",
     "Техн. физ. уровня/Физический уровень модели OSI, 03.09.25.md",
-    "Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
     "Без названия.base",
     "photo/Pasted image 20251002142729.png",
     "photo/Pasted image 20251002135957.png",
-    "photo/Pasted image 20251002135938.png",
-    "photo/Pasted image 20251002135926.png"
+    "photo/Pasted image 20251002135938.png"
   ]
 }
