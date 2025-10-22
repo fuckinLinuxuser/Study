@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2edd7cfb9fb4fe0d",
+        "id": "0b49098386286128",
         "type": "tabs",
         "children": [
           {
-            "id": "5ee5c78218bdebd5",
+            "id": "1906599cd9ab6e27",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Сетевое коммуникационное оорудование"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Сетевое коммуникационное оорудование"
             }
           },
           {
@@ -140,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Сетевое коммуникационное оорудование"
             }
           }
         ]
@@ -157,33 +160,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "5ee5c78218bdebd5",
+  "active": "1906599cd9ab6e27",
   "lastOpenFiles": [
     "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
     "Операционки/Операционные системы, среды и оболочки,.md",
-    "Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
-    "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
-    "Техн. физ. уровня/Топология сетей.md",
+    "photo/telegram-cloud-photo-size-2-5417872550236649060-y.jpg",
     "photo/photo_2025-10-07_10-38-15.jpg",
     "photo/photo_2025-10-07_10-34-45.jpg",
     "photo/photo_2025-10-07_10-33-44.jpg",
-    "photo/photo_2025-10-07_10-22-12.jpg",
-    "photo/photo_2025-10-07_10-01-20.jpg",
-    "photo/photo_2025-10-07_09-59-39.jpg",
-    "photo/photo_2025-10-07_09-48-52.jpg",
+    "photo/IMG_4100.jpeg",
+    "photo/IMG_4099.jpeg",
+    "photo/IMG_4098.jpeg",
+    "photo/IMG_4096.jpeg",
+    "photo/IMG_4095.jpeg",
+    "photo/IMG_4093.jpeg",
+    "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
+    "Информационные технологии/Понятие информационной технологии, 03.09.25.md",
+    "Программирование/Основы С+.md",
+    "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
+    "Техн. физ. уровня/Топология сетей.md",
     "Техн. физ. уровня/Физический уровень модели OSI, 03.09.25.md",
-    "Без названия.base",
-    "photo/Pasted image 20251002142729.png",
-    "photo/Pasted image 20251002135957.png",
-    "photo/Pasted image 20251002135938.png"
+    "Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
+    "Без названия.base"
   ]
 }
