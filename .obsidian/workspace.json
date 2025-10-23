@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Информационные технологии/Понятие информационной технологии, 03.09.25.md",
+                "file": "Информационные технологии/Понятие информационной технологии.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Понятие информационной технологии, 03.09.25"
+              "title": "Понятие информационной технологии"
             }
           }
         ]
@@ -166,18 +166,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "5ee5c78218bdebd5",
+  "active": "1048f136d653a38a",
   "lastOpenFiles": [
-    "Без названия.base",
     "Архитектура аппаратных средств/Drawing 2025-09-14 22.53.43.excalidraw.md",
+    "Без названия.base",
+    "photo/Pasted image 20251022094928.png",
+    "photo/Pasted image 20251022093821.png",
+    "Информационные технологии/Понятие информационной технологии.md",
     "push_pull.ssh",
     "push-pull.ps1",
-    "Pasted image 20251022095606.png",
-    "Pasted image 20251022095421.png",
-    "Pasted image 20251022095149.png",
-    "Pasted image 20251022095047.png",
-    "Pasted image 20251022094928.png",
-    "Pasted image 20251022093821.png",
+    "photo/Pasted image 20251022095606.png",
+    "photo/Pasted image 20251022095421.png",
+    "photo/Pasted image 20251022095149.png",
+    "photo/Pasted image 20251022095047.png",
     "Math/Drawing 2025-06-13 17.51.30.excalidraw.md",
     "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
     "Операционки/Операционные системы, среды и оболочки,.md",
