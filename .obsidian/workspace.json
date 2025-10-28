@@ -11,14 +11,12 @@
             "id": "5ee5c78218bdebd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Информационные технологии/Понятие информационной технологии.md",
-                "mode": "source",
-                "source": false
+                "file": "photo/photo_2025-10-28_09-44-00.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Понятие информационной технологии"
+              "icon": "lucide-image",
+              "title": "photo_2025-10-28_09-44-00"
             }
           }
         ]
@@ -54,7 +52,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -168,28 +166,28 @@
   },
   "active": "1048f136d653a38a",
   "lastOpenFiles": [
-    "Pasted image 20251022104816.png",
-    "Pasted image 20251022104805.png",
-    "Pasted image 20251022103727.png",
-    "Pasted image 20251022103311.png",
-    "Pasted image 20251022102152.png",
-    "Архитектура аппаратных средств/Drawing 2025-09-14 22.53.43.excalidraw.md",
-    "Без названия.base",
-    "photo/Pasted image 20251022094928.png",
-    "photo/Pasted image 20251022093821.png",
+    "photo/IMG_4148.jpeg",
+    "photo/IMG_4147.jpeg",
+    "photo/IMG_4146.jpeg",
+    "photo/IMG_4145.jpeg",
+    "photo/IMG_4144.jpeg",
+    "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
+    "Техн. физ. уровня/Физический уровень модели OSI, 03.09.25.md",
+    "Техн. физ. уровня/Топология сетей.md",
+    "photo/photo_2025-10-28_09-44-00.jpg",
+    "photo_2025-10-28_09-43-11.jpg",
     "Информационные технологии/Понятие информационной технологии.md",
+    "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
+    "Архитектура аппаратных средств/Drawing 2025-09-14 22.53.43.excalidraw.md",
+    "photo/Pasted image 20251022104805.png",
+    "photo/Pasted image 20251022104816.png",
+    "photo/Pasted image 20251022103727.png",
+    "photo/Pasted image 20251022103311.png",
+    "Без названия.base",
     "push_pull.ssh",
     "push-pull.ps1",
-    "photo/Pasted image 20251022095606.png",
-    "photo/Pasted image 20251022095421.png",
-    "photo/Pasted image 20251022095149.png",
-    "photo/Pasted image 20251022095047.png",
     "Math/Drawing 2025-06-13 17.51.30.excalidraw.md",
-    "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
     "Операционки/Операционные системы, среды и оболочки,.md",
-    "Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
-    "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
-    "Техн. физ. уровня/Топология сетей.md",
-    "Техн. физ. уровня/Физический уровень модели OSI, 03.09.25.md"
+    "Техн. физ. уровня/Компьютерные сети, 02.09.25.md"
   ]
 }
