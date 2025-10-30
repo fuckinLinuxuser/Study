@@ -1,13 +1,14 @@
 #!/bin/zsh
 
-while true; do
-    commit_message=$(date +"%Y-%m-%d %H:%M")
-    git add .
-    git commit -m "$commit_message"
-    git pull
-    git push
-    git pull
-done
+commit_message=$(date +"%Y-%m-%d %H:%M")
+git add .
+git commit -m "$commit_message"
+git pull
+git push
+git pull
 
-exit 0
-
+if [ -z "$(git status --porcelain)" ]; then
+    exit 0
+else
+    git merge
+fi
