@@ -1,38 +1,38 @@
 {
   "main": {
-    "id": "4abab0958bdbb695",
+    "id": "8c7686c5ffc04ddb",
     "type": "split",
     "children": [
       {
-        "id": "2edd7cfb9fb4fe0d",
+        "id": "ecb6e53233aabf0f",
         "type": "tabs",
         "children": [
           {
-            "id": "5ee5c78218bdebd5",
+            "id": "9ab9defd0e505224",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Информационные технологии/Понятие информационной технологии, 03.09.25.md",
+                "file": "Программирование/Основы С+.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Понятие информационной технологии, 03.09.25"
+              "title": "Основы С+"
             }
           },
           {
-            "id": "c358ea4de8a1f912",
+            "id": "113b02c8b850dd09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Информационные технологии/Понятие информационной технологии, 03.09.25.md",
+                "file": "Техн. физ. уровня/Сетевая технология Ethernet 11.11.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Понятие информационной технологии, 03.09.25"
+              "title": "Сетевая технология Ethernet 11.11.25"
             }
           }
         ],
@@ -42,15 +42,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "48a6b0a2f4c96580",
+    "id": "3c4d73f43f20099e",
     "type": "split",
     "children": [
       {
-        "id": "1cd793a0dfd3be9e",
+        "id": "135ba9077caa94b7",
         "type": "tabs",
         "children": [
           {
-            "id": "1048f136d653a38a",
+            "id": "aa8483ed79e93a98",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,11 +59,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
-            "id": "d7847b18a775e2f4",
+            "id": "ed16fb8623d5ef35",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,17 +76,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
-            "id": "1c4e3910c1edda7c",
+            "id": "1bd784389179bd82",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Закладки"
             }
           }
         ]
@@ -96,19 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "405d615dff4d56e9",
+    "id": "61dfd7f344a13073",
     "type": "split",
     "children": [
       {
-        "id": "ff5d3d9e85e42dcc",
+        "id": "551084f06e8729d6",
         "type": "tabs",
         "children": [
           {
-            "id": "e35ed03775863901",
+            "id": "319daa0694fa045f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Техн. физ. уровня/Сетевая технология Ethernet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,24 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Обратные ссылки для Сетевая технология Ethernet"
             }
           },
           {
-            "id": "52a2978016cfea79",
+            "id": "7d8ba791c57f7249",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Техн. физ. уровня/Сетевая технология Ethernet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Исходящие ссылки из Сетевая технология Ethernet"
             }
           },
           {
-            "id": "fe40a9affb267356",
+            "id": "a17c5e342c4b92ae",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -146,21 +148,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
-            "id": "260cc319a3b27407",
+            "id": "86f515621e34da8c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Техн. физ. уровня/Сетевая технология Ethernet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Структура Сетевая технология Ethernet"
             }
           }
         ]
@@ -172,60 +175,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-<<<<<<< HEAD
-  "active": "c358ea4de8a1f912",
+  "active": "113b02c8b850dd09",
   "lastOpenFiles": [
-    "Pasted image 20251022104816.png",
-    "Pasted image 20251022104805.png",
-    "Pasted image 20251022103727.png",
-    "Информационные технологии/Понятие информационной технологии, 03.09.25.md",
-    "Pasted image 20251022103311.png",
-    "Pasted image 20251022102152.png",
-=======
-  "active": "5ee5c78218bdebd5",
-  "lastOpenFiles": [
-    "Без названия.base",
-    "Архитектура аппаратных средств/Drawing 2025-09-14 22.53.43.excalidraw.md",
-    "push_pull.ssh",
-    "push-pull.ps1",
-    "Pasted image 20251022095606.png",
-    "Pasted image 20251022095421.png",
-    "Pasted image 20251022095149.png",
-    "Pasted image 20251022095047.png",
-    "Pasted image 20251022094928.png",
-    "Pasted image 20251022093821.png",
-    "Math/Drawing 2025-06-13 17.51.30.excalidraw.md",
-    "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
->>>>>>> b39c79c3703d43e3c75634266fd9be7acbe4988f
-    "Операционки/Операционные системы, среды и оболочки,.md",
-    "Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
-    "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
-    "Техн. физ. уровня/Топология сетей.md",
-    "photo/photo_2025-10-07_10-38-15.jpg",
-    "photo/photo_2025-10-07_10-34-45.jpg",
-    "photo/photo_2025-10-07_10-33-44.jpg",
-<<<<<<< HEAD
-    "photo/IMG_4100.jpeg",
-    "photo/IMG_4099.jpeg",
-    "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
-    "Программирование/Основы С+.md",
-    "Техн. физ. уровня/Сетевое коммуникационное оорудование.md",
-    "Техн. физ. уровня/Топология сетей.md",
     "Техн. физ. уровня/Физический уровень модели OSI, 03.09.25.md",
-    "Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
-    "Без названия.base"
-=======
-    "photo/photo_2025-10-07_10-22-12.jpg",
-    "Техн. физ. уровня/Физический уровень модели OSI, 03.09.25.md"
->>>>>>> b39c79c3703d43e3c75634266fd9be7acbe4988f
+    "Информационные технологии/Понятие информационной технологии, 03.09.25.md",
+    "Архитектура аппаратных средств/Drawing 2025-09-14 22.53.43.excalidraw.md",
+    "Drawing 2025-11-13 12.24.33.excalidraw.md",
+    "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
+    "Техн. физ. уровня/Сетевая технология Ethernet 11.11.25.md",
+    "Техн. физ. уровня/звания.canvas"
   ]
 }
