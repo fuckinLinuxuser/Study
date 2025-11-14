@@ -1,0 +1,62 @@
+#include <iostream>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+void analyzeTemperatures() {
+    int daysCount;
+    cout << "Введите число дней для анализа: ";
+    cin >> daysCount;
+    
+    if (daysCount < 1) {
+        cout << "Ошибка: нужно минимум 1 день." << endl;
+        return;
+    }
+
+    vector<double> dailyTemps(daysCount);
+    
+    // Ввод температур
+    for (int day = 0; day < daysCount; day++) {
+        cout << "Введите температуру дня " << day + 1 << ": ";
+        cin >> dailyTemps[day];
+    }
+
+    // Вычисление статистики
+    double total = 0.0;
+    double highest = dailyTemps[0];
+    double lowest = dailyTemps[0];
+    
+    for (double temp : dailyTemps) {
+        total += temp;
+        if (temp > highest) highest = temp;
+        if (temp < lowest) lowest = temp;
+    }
+    
+    double averageTemp = total / daysCount;
+    double tempRange = highest - lowest;
+
+    // Вывод результатов
+    cout << "\nРезультаты анализа:" << endl;
+    cout << "Среднее значение температуры: " << averageTemp << endl;
+    cout << "Диапазон температур: " << tempRange << endl;
+
+    cout << "Дни с максимальной температурой:";
+    for (int day = 0; day < daysCount; day++) {
+        if (dailyTemps[day] == highest) {
+            cout << " " << day + 1;
+        }
+    }
+
+    cout << "\nДни с минимальной температурой:";
+    for (int day = 0; day < daysCount; day++) {
+        if (dailyTemps[day] == lowest) {
+            cout << " " << day + 1;
+        }
+    }
+    cout << endl;
+}
+
+int main() {
+    analyzeTemperatures();
+    return 0;
+}
