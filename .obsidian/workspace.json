@@ -172,6 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -183,9 +184,10 @@
   },
   "active": "baec8646928702e6",
   "lastOpenFiles": [
-    "photo/Drawing 2025-09-14 22.53.43.excalidraw 1.md",
+    "photo/photo_2025-11-14_10-29-01.jpg",
     "Excalidraw/Drawing 2025-11-07 10.34.25.excalidraw.md",
     "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
+    "photo/Drawing 2025-09-14 22.53.43.excalidraw 1.md",
     "Excalidraw",
     "photo/photo_2025-11-07_10-26-05.jpg",
     "photo/photo_2025-11-07_10-25-03.jpg",
