@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "405d615dff4d56e9",
@@ -198,6 +199,9 @@
   },
   "active": "30dfecbefb7723af",
   "lastOpenFiles": [
+    "photo/photo_2025-11-20_13-49-52.jpg",
+    "photo/photo_2025-11-20_13-46-05.jpg",
+    "photo/photo_2025-11-20_13-45-08.jpg",
     "photo/Без названия.canvas",
     "photo/Без названия.base",
     "photo/Без названия 1.canvas",
@@ -210,8 +214,6 @@
     "photo/telegram-cloud-photo-size-2-5256111119661731033-w.jpg",
     "photo/telegram-cloud-photo-size-2-5256111119661731024-w.jpg",
     "photo/telegram-cloud-photo-size-2-5256111119661730997-y.jpg",
-    "photo/telegram-cloud-photo-size-2-5256111119661730995-y.jpg",
-    "photo/telegram-cloud-photo-size-2-5256111119661730981-y.jpg",
     "Информационные технологии/Понятие информационной технологии.md",
     "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
     "Программирование/Основы С+.md",
