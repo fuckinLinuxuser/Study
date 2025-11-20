@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Поколения ЭВМ, 04.09.25"
             }
+          },
+          {
+            "id": "baec8646928702e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Поколения ЭВМ, 04.09.25"
+            }
+          },
+          {
+            "id": "30dfecbefb7723af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Операционки/Операционные системы, среды и оболочки,.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Операционные системы, среды и оболочки,"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,36 +186,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
   },
-  "active": "5ee5c78218bdebd5",
+  "active": "30dfecbefb7723af",
   "lastOpenFiles": [
-    "Операционки/Операционные системы, среды и оболочки,.md",
-    "photo/photo_2025-10-30_14-16-07.jpg",
-    "photo/photo_2025-10-30_14-15-57.jpg",
-    "photo/photo_2025-10-30_13-56-17.jpg",
-    "photo/photo_2025-10-30_13-52-34.jpg",
-    "photo/photo_2025-10-30_13-50-24.jpg",
+    "Информационные технологии/Понятие информационной технологии.md",
     "Архитектура аппаратных средств/Поколения ЭВМ, 04.09.25.md",
-    "Архитектура аппаратных средств/Drawing 2025-09-14 22.53.43.excalidraw.md",
+    "Программирование/Основы С+.md",
+    "Операционки/Операционные системы, среды и оболочки,.md",
+    "photo/photo_2025-11-14_11-27-19.jpg",
+    "photo/photo_2025-11-14_11-23-39.jpg",
+    "photo/photo_2025-11-14_11-22-34.jpg",
+    "photo/Drawing 2025-10-06 11.40.37.excalidraw.md",
+    "photo/Drawing 2025-10-06 12.02.08.excalidraw.md",
+    "Техн. физ. уровня/Сетевая технология Ethernet 11.11.25.md",
+    "photo/photo_2025-11-14_11-16-09.jpg",
+    "photo/photo_2025-11-14_10-55-23.jpg",
+    "photo/photo_2025-11-14_10-50-09.jpg",
+    "photo/photo_2025-11-14_10-46-47.jpg",
+    "photo/photo_2025-11-14_10-29-01.jpg",
+    "Excalidraw/Drawing 2025-11-07 10.34.25.excalidraw.md",
+    "photo/Drawing 2025-09-14 22.53.43.excalidraw 1.md",
+    "Excalidraw",
+    "photo/photo_2025-11-07_10-26-05.jpg",
+    "photo/photo_2025-11-07_10-25-03.jpg",
+    "photo/❗️Норматив заполнения❗️.md",
+    "photo/Drawing 2025-09-05 09.35.14.excalidraw.md",
+    "photo/Drawing 2025-09-05 09.41.31.excalidraw.md",
     "Техн. физ. уровня/Компьютерные сети.md",
-    "photo/photo_2025-10-28_10-48-15.jpg",
-    "photo/photo_2025-10-28_10-43-01.jpg",
-    "photo/photo_2025-10-28_10-38-48.jpg",
-    "photo/photo_2025-10-28_10-38-00.jpg",
-    "photo/photo_2025-10-28_10-34-08.jpg",
     "Техн. физ. уровня/Физический уровень модели OSI, 03.09.25.md",
     "Техн. физ. уровня/Топология сетей.md",
     "Техн. физ. уровня/Компьютерные сети, 02.09.25.md",
-    "Информационные технологии/Понятие информационной технологии.md",
     "Без названия.base",
     "push_pull.ssh",
     "push-pull.ps1",
